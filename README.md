@@ -4,7 +4,7 @@
 
 ## Feature
 
-- Basic on [docker-node](https://github.com/nodejs/docker-node) (latest)
+- Based on ubuntu:xenial
 - vim
 - git
 - Yarn
