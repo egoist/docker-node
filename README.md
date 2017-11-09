@@ -4,10 +4,11 @@
 
 ## Feature
 
-- Based on ubuntu:xenial
+- alpine linux
 - vim
 - git
-- Yarn
+- node latest
+- yarn latest
 
 ## Usage
 
