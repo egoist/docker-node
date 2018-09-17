@@ -1,4 +1,4 @@
-FROM mhart/alpine-node:latest
+FROM node:alpine:latest
 LABEL maintainer="0x142857@gmail.com"
 
 RUN apk update && apk upgrade && \
